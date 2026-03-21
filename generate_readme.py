@@ -92,12 +92,12 @@ readme = f"""<div align="center">
 
 ## Sobre mí
 
-Estudiante de **Administración de Sistemas Informáticos** en la **Universidad Nacional de Colombia · ASID Manizales**.
+Estudiante de **Administración de Sistemas Informáticos** en la **Universidad Nacional de Colombia · ASI Manizales**.
 Apasionado por el desarrollo backend, arquitectura de microservicios y DevOps.
 ```python
 developer = {{
     "name":           "Diego Fernando Aristizábal Gutiérrez",
-    "university":     "Universidad Nacional de Colombia · ASID Manizales",
+    "university":     "Universidad Nacional de Colombia · Manizales",
     "program":        "Administración de Sistemas Informáticos",
     "focus":          ["Backend", "DevOps", "Microservicios", "APIs REST"],
     "stack":          ["Python", "PHP", "Laravel", "Flask", "Node.js"],
