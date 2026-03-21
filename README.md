@@ -20,12 +20,12 @@
 
 ## Sobre mí
 
-Estudiante de **Administración de Sistemas Informáticos** en la **Universidad Nacional de Colombia · ASID Manizales**.
+Estudiante de **Administración de Sistemas Informáticos** en la **Universidad Nacional de Colombia · ASI Manizales**.
 Apasionado por el desarrollo backend, arquitectura de microservicios y DevOps.
 ```python
 developer = {
     "name":           "Diego Fernando Aristizábal Gutiérrez",
-    "university":     "Universidad Nacional de Colombia · ASID Manizales",
+    "university":     "Universidad Nacional de Colombia · Manizales",
     "program":        "Administración de Sistemas Informáticos",
     "focus":          ["Backend", "DevOps", "Microservicios", "APIs REST"],
     "stack":          ["Python", "PHP", "Laravel", "Flask", "Node.js"],
@@ -95,7 +95,7 @@ developer = {
 
 [![LinkedIn](https://img.shields.io/badge/Conectemos%20en%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-fernando-aristizabal/)
 
-<sub>Actualizado automáticamente el 21/03/2026 17:13 UTC</sub>
+<sub>Actualizado automáticamente el 21/03/2026 17:19 UTC</sub>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=80&section=footer)
 
