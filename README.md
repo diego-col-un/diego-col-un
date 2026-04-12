@@ -64,8 +64,8 @@ developer = {
 
 | Repo | Descripción | Lenguaje | Stars |
 |---|---|---|---|
-| [taller_pruebas_unitarias](https://github.com/diego-col-un/taller_pruebas_unitarias) | Sin descripción | Python | 0 |
 | [diego-col-un](https://github.com/diego-col-un/diego-col-un) | Sin descripción | Python | 0 |
+| [taller_pruebas_unitarias](https://github.com/diego-col-un/taller_pruebas_unitarias) | Sin descripción | Python | 0 |
 | [sistema-microservicios](https://github.com/diego-col-un/sistema-microservicios) | Sin descripción | Blade | 0 |
 | [taller-microservicios](https://github.com/diego-col-un/taller-microservicios) | Sin descripción | Blade | 0 |
 | [eldecare-ai](https://github.com/diego-col-un/eldecare-ai) | Sin descripción | HTML | 0 |
@@ -95,7 +95,7 @@ developer = {
 
 [![LinkedIn](https://img.shields.io/badge/Conectemos%20en%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-fernando-aristizabal/)
 
-<sub>Actualizado automáticamente el 11/04/2026 01:48 UTC</sub>
+<sub>Actualizado automáticamente el 12/04/2026 00:51 UTC</sub>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=80&section=footer)
 
