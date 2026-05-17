@@ -64,8 +64,8 @@ developer = {
 
 | Repo | Descripción | Lenguaje | Stars |
 |---|---|---|---|
-| [SangreNueva_Remate20261](https://github.com/diego-col-un/SangreNueva_Remate20261) | Sin descripción | HTML | 0 |
 | [diego-col-un](https://github.com/diego-col-un/diego-col-un) | Sin descripción | Python | 0 |
+| [SangreNueva_Remate20261](https://github.com/diego-col-un/SangreNueva_Remate20261) | Sin descripción | HTML | 0 |
 | [sistema-microservicios](https://github.com/diego-col-un/sistema-microservicios) | Sin descripción | HTML | 0 |
 | [BYDecommerce_RAG](https://github.com/diego-col-un/BYDecommerce_RAG) | Sin descripción | JavaScript | 0 |
 | [PARCIAL1-MICROSERVICIOS](https://github.com/diego-col-un/PARCIAL1-MICROSERVICIOS) | Sin descripción | Python | 0 |
@@ -95,7 +95,7 @@ developer = {
 
 [![LinkedIn](https://img.shields.io/badge/Conectemos%20en%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-fernando-aristizabal/)
 
-<sub>Actualizado automáticamente el 16/05/2026 02:26 UTC</sub>
+<sub>Actualizado automáticamente el 17/05/2026 02:34 UTC</sub>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=80&section=footer)
 
