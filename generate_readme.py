@@ -102,7 +102,7 @@ developer = {{
     "focus":          ["Backend", "DevOps", "Microservicios", "APIs REST"],
     "stack":          ["Python", "PHP", "Laravel", "Flask", "Node.js"],
     "databases":      ["MySQL", "MongoDB", "SQLite", "Firebase"],
-    "certifications": ["NDG Linux Unhatched", "NDG Linux Essentials"],
+    "certifications": ["NDG Linux Unhatched", "NDG Linux Essentials", "CCNA: Introducción a las redes"],
     "linkedin":       "linkedin.com/in/diego-fernando-aristizabal",
 }}
 ```
@@ -136,7 +136,7 @@ developer = {{
 |---|---|
 | NDG Linux Unhatched | Cisco Networking Academy |
 | NDG Linux Essentials | Cisco Networking Academy |
-| NDG Linux Essentials | Cisco Networking Academy |
+| CCNA: Introducción a las redes | Cisco Networking Academy |
 
 ---
 
