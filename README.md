@@ -78,6 +78,7 @@ developer = {
 |---|---|
 | NDG Linux Unhatched | Cisco Networking Academy |
 | NDG Linux Essentials | Cisco Networking Academy |
+| CCNA: Introducción a las redes | Cisco Networking Academy |
 
 ---
 
