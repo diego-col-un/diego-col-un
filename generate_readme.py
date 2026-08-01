@@ -136,6 +136,7 @@ developer = {{
 |---|---|
 | NDG Linux Unhatched | Cisco Networking Academy |
 | NDG Linux Essentials | Cisco Networking Academy |
+| NDG Linux Essentials | Cisco Networking Academy |
 
 ---
 
