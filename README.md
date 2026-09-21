@@ -41,10 +41,10 @@ developer = {
 
 | Lenguaje | Uso | % |
 |---|---|---|
-| HTML | `█████░░░░░░░░░░░░░░░` | 25% |
-| Python | `███░░░░░░░░░░░░░░░░░` | 17% |
-| JavaScript | `███░░░░░░░░░░░░░░░░░` | 17% |
-| Java | `███░░░░░░░░░░░░░░░░░` | 17% |
+| HTML | `██████░░░░░░░░░░░░░░` | 28% |
+| Python | `███░░░░░░░░░░░░░░░░░` | 16% |
+| JavaScript | `███░░░░░░░░░░░░░░░░░` | 16% |
+| Java | `███░░░░░░░░░░░░░░░░░` | 16% |
 | Blade | `██░░░░░░░░░░░░░░░░░░` | 12% |
 
 ---
@@ -64,11 +64,11 @@ developer = {
 
 | Repo | Descripción | Lenguaje | Stars |
 |---|---|---|---|
+| [boletas-eventos](https://github.com/diego-col-un/boletas-eventos) | Sin descripción | HTML | 0 |
 | [diego-col-un](https://github.com/diego-col-un/diego-col-un) | Sin descripción | Python | 0 |
 | [DynamicSystemsSimulation](https://github.com/diego-col-un/DynamicSystemsSimulation) | Sin descripción | JavaScript | 0 |
 | [contenedoresMulltistage](https://github.com/diego-col-un/contenedoresMulltistage) | Sin descripción | Dockerfile | 0 |
 | [BYDecommerce_RAG](https://github.com/diego-col-un/BYDecommerce_RAG) | Sin descripción | JavaScript | 0 |
-| [PracticaDevSecOps](https://github.com/diego-col-un/PracticaDevSecOps) | Sin descripción | Python | 0 |
 
 ---
 
@@ -96,7 +96,7 @@ developer = {
 
 [![LinkedIn](https://img.shields.io/badge/Conectemos%20en%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-fernando-aristizabal/)
 
-<sub>Actualizado automáticamente el 20/09/2026 02:51 UTC</sub>
+<sub>Actualizado automáticamente el 21/09/2026 02:48 UTC</sub>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=80&section=footer)
 
