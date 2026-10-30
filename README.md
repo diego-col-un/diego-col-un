@@ -64,9 +64,9 @@ developer = {
 
 | Repo | Descripción | Lenguaje | Stars |
 |---|---|---|---|
+| [03_proyecto_asistencia_qr](https://github.com/diego-col-un/03_proyecto_asistencia_qr) | Sin descripción | Python | 0 |
 | [diego-col-un](https://github.com/diego-col-un/diego-col-un) | Sin descripción | Python | 0 |
 | [resumen-pdf](https://github.com/diego-col-un/resumen-pdf) | Sin descripción | Python | 0 |
-| [03_proyecto_asistencia_qr](https://github.com/diego-col-un/03_proyecto_asistencia_qr) | Sin descripción | Python | 0 |
 | [boletas-eventos](https://github.com/diego-col-un/boletas-eventos) | Sin descripción | HTML | 0 |
 | [DynamicSystemsSimulation](https://github.com/diego-col-un/DynamicSystemsSimulation) | Sin descripción | JavaScript | 0 |
 
@@ -96,7 +96,7 @@ developer = {
 
 [![LinkedIn](https://img.shields.io/badge/Conectemos%20en%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-fernando-aristizabal/)
 
-<sub>Actualizado automáticamente el 29/10/2026 03:53 UTC</sub>
+<sub>Actualizado automáticamente el 30/10/2026 03:55 UTC</sub>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=80&section=footer)
 
