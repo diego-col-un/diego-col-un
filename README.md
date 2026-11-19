@@ -41,11 +41,11 @@ developer = {
 
 | Lenguaje | Uso | % |
 |---|---|---|
-| Python | `█████░░░░░░░░░░░░░░░` | 25% |
-| HTML | `█████░░░░░░░░░░░░░░░` | 25% |
+| Python | `█████░░░░░░░░░░░░░░░` | 24% |
+| HTML | `█████░░░░░░░░░░░░░░░` | 24% |
 | JavaScript | `███░░░░░░░░░░░░░░░░░` | 14% |
 | Java | `███░░░░░░░░░░░░░░░░░` | 14% |
-| Blade | `██░░░░░░░░░░░░░░░░░░` | 11% |
+| Blade | `██░░░░░░░░░░░░░░░░░░` | 10% |
 
 ---
 
@@ -64,11 +64,11 @@ developer = {
 
 | Repo | Descripción | Lenguaje | Stars |
 |---|---|---|---|
+| [YaCarroPredict-ProyectoCLD](https://github.com/diego-col-un/YaCarroPredict-ProyectoCLD) | Sin descripción | Jupyter Notebook | 0 |
 | [RAG-Constitucionalidad](https://github.com/diego-col-un/RAG-Constitucionalidad) | Sin descripción | Python | 0 |
 | [diego-col-un](https://github.com/diego-col-un/diego-col-un) | Sin descripción | Python | 0 |
 | [03_proyecto_asistencia_qr](https://github.com/diego-col-un/03_proyecto_asistencia_qr) | Sin descripción | Python | 0 |
 | [resumen-pdf](https://github.com/diego-col-un/resumen-pdf) | Sin descripción | Python | 0 |
-| [boletas-eventos](https://github.com/diego-col-un/boletas-eventos) | Sin descripción | HTML | 0 |
 
 ---
 
@@ -96,7 +96,7 @@ developer = {
 
 [![LinkedIn](https://img.shields.io/badge/Conectemos%20en%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-fernando-aristizabal/)
 
-<sub>Actualizado automáticamente el 18/11/2026 05:30 UTC</sub>
+<sub>Actualizado automáticamente el 19/11/2026 05:29 UTC</sub>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=80&section=footer)
 
