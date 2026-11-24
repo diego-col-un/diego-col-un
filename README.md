@@ -64,7 +64,7 @@ developer = {
 
 | Repo | Descripción | Lenguaje | Stars |
 |---|---|---|---|
-| [YaCarroPredict-ProyectoCLD](https://github.com/diego-col-un/YaCarroPredict-ProyectoCLD) | Sin descripción | Jupyter Notebook | 0 |
+| [YaCarroPredict-ProyectoCLD](https://github.com/diego-col-un/YaCarroPredict-ProyectoCLD) | Sin descripción | Jupyter Notebook | 1 |
 | [RAG-Constitucionalidad](https://github.com/diego-col-un/RAG-Constitucionalidad) | Sin descripción | Python | 0 |
 | [diego-col-un](https://github.com/diego-col-un/diego-col-un) | Sin descripción | Python | 0 |
 | [03_proyecto_asistencia_qr](https://github.com/diego-col-un/03_proyecto_asistencia_qr) | Sin descripción | Python | 0 |
@@ -96,7 +96,7 @@ developer = {
 
 [![LinkedIn](https://img.shields.io/badge/Conectemos%20en%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-fernando-aristizabal/)
 
-<sub>Actualizado automáticamente el 23/11/2026 05:11 UTC</sub>
+<sub>Actualizado automáticamente el 24/11/2026 07:55 UTC</sub>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=80&section=footer)
 
